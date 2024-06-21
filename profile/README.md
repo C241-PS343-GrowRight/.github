@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❇️ Capstone Project Bangkit Academy 2024 Batch 1 - Product Track ❇️
+# ❇️ Capstone Project Bangkit Academy 2024 Batch 1 ❇️
 
 !['GrowRight Logo'](https://github.com/C241-PS343-GrowRight/assets/blob/d20f9cf9049536ec428b9cdb5b1e65c911cc7e1f/GrowRight%20Logo.png)
 
