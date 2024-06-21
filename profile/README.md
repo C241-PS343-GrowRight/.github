@@ -1,10 +1,10 @@
 <div align="center">
 
-# Capstone Project Bangkit Academy 2024 Batch 1 - Product Track
+# ❇️ Capstone Project Bangkit Academy 2024 Batch 1 - Product Track ❇️
 
-  <a img src="https://github.com/C241-PS343-GrowRight/assets/blob/d20f9cf9049536ec428b9cdb5b1e65c911cc7e1f/GrowRight%20Logo.png" alt="icon" border="0"></a>
+!['GrowRight Logo'](https://github.com/C241-PS343-GrowRight/assets/blob/d20f9cf9049536ec428b9cdb5b1e65c911cc7e1f/GrowRight%20Logo.png)
 
-## Fitures
+## Features
 
 <span> Stunting Analyze </span>| <span> Nutritional Needs</span>| <span >Stunting Information</span> | <span >History</span> | <span >User Profile</span> |
 
@@ -43,6 +43,8 @@ Make sure the mobile apps are running smoothly.
 ### Project Deliverables:
 This project aims to create a stunting detection system for children using recent user input data to prevent stunting at an early stage. By developing a reliable and accessible detection system, we can empower children's growth. The project scope consists of the following tasks and deliverables:
 
+## GrowRight Apps Snapshoot
+!['GrowRight APPS'](https://github.com/C241-PS343-GrowRight/assets/blob/457c34c50dcef0e2c79b8f0f48e7a306c792939b/growright%20app%20ss.png)
 
 ## Presented By :
 
