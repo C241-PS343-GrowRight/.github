@@ -14,7 +14,7 @@
 
 ### Capstone Team ID : `C241-PS343`
 
-| Theme : `Health Innovation: Empowering Vulnerable Communities for Health and Well-being` | Project : `GrowRight` |
+| Theme : `Health Innovation: Empowering Vulnerable Communities for Health and Well-being` | Project Title : `GrowRight` |
 | ------------------------ | --------------------------------------- |
 
 ### Capstone Team Member
@@ -32,13 +32,13 @@
 ## Project Scope & Deliverables:
 
 ### Project Scope:
-Android application-based project with a user-friendly interface.
-This project aims to identify the nutritional status of the children.
-Develop a machine learning model to predict nutritional status (stunting or not) based on relevant features (e.g., age, weight, height, gender).
-Integrate the machine learning model into the app.
-Set up a cloud environment (Google Cloud) for data storage and processing.
-Display predicted nutritional status to users.
-Make sure the mobile apps are running smoothly.
+- Android application-based project with a user-friendly interface.
+- This project aims to identify the nutritional status of the children.
+- Develop a machine learning model to predict nutritional status (stunting or not) based on relevant features (e.g., age, weight, height, gender).
+- Integrate the machine learning model into the app.
+- Set up a cloud environment (Google Cloud) for data storage and processing.
+- Display predicted nutritional status to users.
+- Make sure the mobile apps are running smoothly.
 
 ### Project Deliverables:
 This project aims to create a stunting detection system for children using recent user input data to prevent stunting at an early stage. By developing a reliable and accessible detection system, we can empower children's growth. The project scope consists of the following tasks and deliverables:
